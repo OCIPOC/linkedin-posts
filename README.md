@@ -46,44 +46,20 @@
 
 ## :dart: About ##
 
-Describe your project
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Esse projeto tem o objetivo principal de compartilhar dos mais diversos conhecimentos sobre Engenharia de Dados através de posts que serão disponibilizados diariamentes através da rede social do Linkedin. Neste repositório serão divulgados boas práticas de código, cenários de utilização de ferramentas, arquitetura de dados e padrões de projetos.
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+- [Python](https://www.python.org/)
+- [Spark](https://spark.apache.org/)
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
 $ git clone https://github.com/carlosbpy/linkedin-posts
-
-# Access
-$ cd linkedin-posts
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
