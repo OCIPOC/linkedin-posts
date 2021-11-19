@@ -50,7 +50,7 @@ Esse projeto tem o objetivo principal de compartilhar dos mais diversos conhecim
 
 ## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+As seguintes ferramentas foram utilizadas neste projeto:
 
 - [Python](https://www.python.org/)
 - [Spark](https://spark.apache.org/)
