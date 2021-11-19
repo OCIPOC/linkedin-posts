@@ -44,21 +44,21 @@
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre ##
 
 Esse projeto tem o objetivo principal de compartilhar dos mais diversos conhecimentos sobre Engenharia de Dados através de posts que serão disponibilizados diariamentes através da rede social do Linkedin. Neste repositório serão divulgados boas práticas de código, cenários de utilização de ferramentas, arquitetura de dados e padrões de projetos.
 
-## :rocket: Technologies ##
+## :rocket: Tecnologias ##
 
 The following tools were used in this project:
 
 - [Python](https://www.python.org/)
 - [Spark](https://spark.apache.org/)
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Começando ##
 
 ```bash
-# Clone this project
+# Para clonar o projeto
 $ git clone https://github.com/carlosbpy/linkedin-posts
 ```
 
@@ -67,7 +67,7 @@ $ git clone https://github.com/carlosbpy/linkedin-posts
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/carlosbpy" target="_blank">YOUR_NAME</a>
+Made with :heart: by <a href="https://github.com/carlosbpy" target="_blank">Carlos Barbosa</a>
 
 &#xa0;
 
