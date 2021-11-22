@@ -14,5 +14,5 @@ def get_large_downloads(df):
 #==========================================================================
 #                                     GOOD                                #
 #==========================================================================
-def get_large_downloads(downloads_zize_greater_than_100: int) -> DataFrame:
+def get_large_downloads(downloads_zize_greater_than_100: DataFrame) -> DataFrame:
     return downloads_zize_greater_than_100.where(F.col("size") > 100)
