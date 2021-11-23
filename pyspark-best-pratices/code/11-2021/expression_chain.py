@@ -1,8 +1,6 @@
 """
 Author: Carlos Barbosa
 Linkedin: https://www.linkedin.com/in/carlosbpy/
-
-Post: https://www.linkedin.com/posts/carlosbpy_dataengineering-codequality-activity-6867076679475486720-MRlM
 """
 
 
