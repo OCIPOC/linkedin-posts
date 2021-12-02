@@ -1,3 +1,8 @@
+"""
+Author: Carlos Barbosa
+Linkedin: https://www.linkedin.com/in/carlosbpy/
+"""
+
 from pyspark.sql import functions as F
 
 #======================================================================================
